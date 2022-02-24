@@ -6,32 +6,32 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'personal',
       description: 'Personal Portfolio',
       link: "https://github.com/Hunter-Zandri/personal-portfolio-web",
       repo: "https://github.com/Hunter-Zandri/personal-portfolio-web"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'weather',
       description: 'Weather dashboard',
       link: "https://github.com/Hunter-Zandri/Weather-Dashboard",
       repo: "https://github.com/Hunter-Zandri/Weather-Dashboard"
     },
     {
-      name: 'run-buddy',
+      name: 'work',
       description: 'Work Day scheduler',
       link: "https://github.com/Hunter-Zandri/Work-Day-Scheduler",
       repo: "https://github.com/Hunter-Zandri/Work-Day-Scheduler"
     },
     {
-      name: 'led-wall',
+      name: 'code',
       description: 'Code quiz',
       link: "https://github.com/Hunter-Zandri/code-quiz004",
       repo: "https://hunter-zandri.github.io/code-quiz004/"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
+      name: 'password',
+      description: 'Secure password genorator',
       link: "https://hunter-zandri.github.io/secure-password-generator/",
       repo: "https://github.com/Hunter-Zandri/secure-password-generator"
     },
